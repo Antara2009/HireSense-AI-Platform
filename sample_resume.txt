@@ -1,0 +1,5 @@
+Name: Demo Candidate
+Education: B.Tech Artificial Intelligence and Machine Learning
+Skills: Python, SQL, Flask, Git, Problem Solving, Communication
+Projects: Resume screening web application using Python and Flask
+Experience: Academic project work
